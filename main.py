@@ -1,1 +1,0 @@
-print("Nombre: Mayda Daniela Matul Alvarado, Carné: 1535523")
